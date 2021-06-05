@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Project 5
+This project was optional for extra credit. It worked with classes and updating information in a loop. It simulated a game where life would be lost until monsters have died. 
 
-You can use the [editor on GitHub](https://github.com/BassGuitarBen/cit281-p5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Project files available at
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Project 5 JS](https://bassguitarben.github.io/cit281-p5/p5.js)
 
-### Markdown
+[Project 5 Game](https://bassguitarben.github.io/cit281-p5/p5-monster-game.js)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Project 5 Monsters](https://bassguitarben.github.io/cit281-p5/p5-monsters.js)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BassGuitarBen/cit281-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Note, as it was optional, I had not completed this project, so supporting files may be absent/incomplete.
