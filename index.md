@@ -3,7 +3,7 @@ This project was optional for extra credit. It worked with classes and updating 
 
 Project files available at
 
-[Project 5 JS](https://bassguitarben.github.io/cit281-p5/p5.js)
+[Project 5 JS](https://bassguitarben.github.io/cit281-p5/p51.js)
 
 [Project 5 Game](https://bassguitarben.github.io/cit281-p5/p5-monster-game.js)
 
