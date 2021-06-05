@@ -7,6 +7,6 @@ Project files available at
 
 [Project 5 Game](https://bassguitarben.github.io/cit281-p5/p5-monster-game.js)
 
-[Project 5 Monsters](https://bassguitarben.github.io/cit281-p5/p5-monsters.js)
+[Project 5 Monsters](https://bassguitarben.github.io/cit281-p5/p5mon.js)
 
 Note, as it was optional, I had not completed this project, so supporting files may be absent/incomplete.
